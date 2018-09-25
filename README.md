@@ -2,9 +2,9 @@
 
 ## useage:
 
-python3 trademe\_grab.py <url>
+python3 trademe\_grab.py \<url\>
 
-where <url> is the url of some search in used cars with filter set to buy-now only
+where \<url\> is the url of some search in used cars with filter set to buy-now only
 
 eg. (ford rangers)
 
