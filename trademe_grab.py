@@ -37,7 +37,7 @@ def grab_price_km(start_url):
         except:
             continue
 
-        sleep(0.03)
+        sleep(0.3)
         cars.append((p, km))
     return cars
 
